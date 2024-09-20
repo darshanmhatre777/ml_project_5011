@@ -1,0 +1,3 @@
+Initiating data collection for machine learning project."
+
+Data pre-processing is crucial for accurate model predicitons.
